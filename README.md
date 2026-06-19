@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Tanya Aggarwal</h1>
 <h3 align="center">A passionate Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/shikha09git/shikha09git">
+<img width="1024" height="1024" alt="68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d72696768747370" src="https://github.com/user-attachments/assets/20e3635a-06e2-4ee7-9508-0ee89abaa7b6" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyaa005&label=Profile%20views&color=0e75b6&style=flat" alt="tanyaa005" /> </p>
 

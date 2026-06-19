@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tanya Aggarwal</h1>
 <h3 align="center">A passionate Engineer from India</h3>
-<img align="right" alt="coding" width="400"src="https://dribbble.com/shots/3848396-Character-Typing">
+<img align="right" alt="coding" width="400" src="https://collegedunia.com/social/177-11-hacks-to-earn-money-when-you-feel-totally-broke-in-college">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyaa005&label=Profile%20views&color=0e75b6&style=flat" alt="tanyaa005" /> </p>
 
